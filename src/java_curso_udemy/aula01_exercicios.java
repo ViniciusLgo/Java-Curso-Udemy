@@ -1,6 +1,6 @@
 package java_curso_udemy;
 
-public class aula02 {
+public class aula01_exercicios {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -16,7 +16,6 @@ public class aula02 {
 		
 		System.out.println(12);
 		System.out.println(code);
-        System.out.println(code);
 	}
 
 }
