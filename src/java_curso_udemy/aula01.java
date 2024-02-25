@@ -8,6 +8,14 @@ public class aula01 {
 		System.out.println("svin");
 		System.out.println("teste");
 		
+
+		
+		System.out.println("teste");
+		
+		System.out.println("teste");
+		System.out.println("teste");
+		
+		System.out.println("teste");
 	}
 
 }
