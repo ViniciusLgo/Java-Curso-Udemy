@@ -6,6 +6,8 @@ public class aula01 {
 		// TODO Auto-generated method stub
 
 		System.out.println("svin");
+		System.out.println("teste");
+		
 	}
 
 }
