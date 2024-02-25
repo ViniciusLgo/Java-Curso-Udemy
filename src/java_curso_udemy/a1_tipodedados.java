@@ -1,6 +1,6 @@
 package java_curso_udemy;
 
-public class aula01 {
+public class a1_tipodedados {
 
 	public static void main(final String[] args) {
 		int y = 32;
