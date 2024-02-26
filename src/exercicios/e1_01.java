@@ -1,6 +1,6 @@
-package java_curso_udemy;
+package exercicios;
 
-public class a1_exercicios {
+public class e1_01 {
 
 	public static void main(String[] args) {
 
