@@ -1,6 +1,6 @@
 package exercicios;
 import java.util.Scanner;
-public class e3_02 {
+public class e03_02 {
 
 	public static void main(String[] args) {
 

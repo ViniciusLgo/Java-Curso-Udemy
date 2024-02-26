@@ -2,7 +2,7 @@ package java_curso_udemy;
 
 import java.util.Scanner;
 
-public class a2_entradadedados {
+public class a02_entradadedados {
 
 	public static void main(String[] args) {
 

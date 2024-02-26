@@ -1,6 +1,6 @@
 package java_curso_udemy;
 import java.util.Scanner;
-public class a3_expressoes {
+public class a03_expressoes {
 
 	public static void main(String[] args) {
 
